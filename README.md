@@ -2,7 +2,7 @@
 You Can view the pages at
 [http://www.kodyin.com](http://www.kodyin.com)
 
-#Usage
+##Usage
 ⋅⋅* HTML5
 ⋅⋅* CSS3
 ⋅⋅* jQuery
@@ -10,6 +10,6 @@ You Can view the pages at
 ⋅⋅* move.js
 ⋅⋅* fullPage.js
 
-#Any suggestions are appreciated!
+##Any suggestions are appreciated!
 
 
